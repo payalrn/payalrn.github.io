@@ -21,3 +21,4 @@ dependencies:
   - ipyleaflet
   - openpyxl
   - ipyvolume
+  - yt
