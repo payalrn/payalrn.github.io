@@ -11,3 +11,13 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - scipy
+  - palettable
+  - bqplot
+  - h5py
+  - geopandas
+  - contextily
+  - webcolors
+  - ipyleaflet
+  - openpyxl
+  - ipyvolume
