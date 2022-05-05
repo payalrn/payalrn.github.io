@@ -13,7 +13,7 @@ dependencies:
   - dask
   - scipy
   - palettable
-  - bqplot
+  - bqplot=0.12.30
   - h5py
   - geopandas
   - contextily
